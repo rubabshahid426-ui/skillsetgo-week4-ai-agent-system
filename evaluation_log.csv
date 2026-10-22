@@ -1,0 +1,4 @@
+Test ID,Question/Input,Expected Behavior,Actual Result,Quality Score (1-5),Latency (seconds),Failure/Notes
+T1,What is RAG?,Clear explanation,,,,
+T2,Summarize a document,Summary grounded in source,,,,
+T3,Ask about missing information,Say evidence is insufficient,,,,
